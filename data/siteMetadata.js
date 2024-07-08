@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Semiconductor Physics',
   author: 'Pushkar',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'SemiconductorPhysics',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
